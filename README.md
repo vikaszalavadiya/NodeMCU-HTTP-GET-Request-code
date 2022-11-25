@@ -8,6 +8,7 @@ Below are some commands and there explanation in order to understand the code.
 #include <ESP8266WiFi.h>      //add library into program
 #include <WiFi.h>				//add library for wifi network connection
 #include <HTTPClient.h>		//add library for http client
+
 ------------------------------------------------------------------------------
 WiFi.begin(ssid, password);     //Command to connect to a WiFi Network
 
